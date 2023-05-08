@@ -9,3 +9,10 @@ To prepare the data for this project, we went through both original data sets ge
 
 ## Data Analysis
 To analyze the data for this project, we fit our data to linear regression models attempting to determine which model led to the most accurate prediction based on the socioeconomic factors we had in our data frames. The code for this analysis can be found in the Notebooks folder in the file called "DATA_3320_Education_Analysis_Hope_Crosier.ipynb". All graphs and models intended for use in a final project conclusion will come from this notebook.
+
+## Author
+Hope Crosier is the author of this repository. She is a undergraduate computer science student at Seattle University, and her linked in here: https://www.linkedin.com/in/hope-crosier/
+
+## License
+This repository and all corresponding code components are liscenced under the MIT License
+
