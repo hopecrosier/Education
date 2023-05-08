@@ -1,4 +1,5 @@
-# Education - Introduction
+# Education Inequality Overview
+## Introduction
 The purpose of this project is to determine if school performance predicted by socioeconomic factors. We will use average student performance on ACT and SAT exams, along with basic information and  statistics on the schools that these students attend. 
 
 ## Requirements
